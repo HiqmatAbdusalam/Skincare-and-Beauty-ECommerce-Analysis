@@ -1,11 +1,11 @@
 # **Skincare and Beauty E-Commerce Analysis**
 ## **Introduction**
-This report analyzes the sales and performance of a Skincare and Beauty E-store. It highlights KPIs such as revenue, profit and profit margin. It evaluates performance of various product categories, market regions and customer segments. Specifically, the e-store aims to achieve an average annual profit margin of 15% across all product groups, 20% annual overall sales growth with a higher target of 30% for the corporate segment, and at least $400K in annual sales for each market
+This report analyzes the sales and performance of a Skincare and Beauty e-store. It highlights KPIs such as revenue, profit and profit margin. It evaluates performance of various product categories, market regions and customer segments. Specifically, the e-store aims to achieve an average annual profit margin of 15% across all product groups, 20% annual overall sales growth with a higher target of 30% for the corporate segment, and at least $400K in annual sales for each market
 
 ## Data Modelling
-**Fact Table**: Contains metrics such as Quantity, Sales, Discount and Profit.
-**Dimension Tables**: Includes Customer, Orders and Products.
-**Date Table**: Supports time-based analysis, making it possible to track trends and filter reports by time periods.
+- **Fact Table**: Contains metrics such as Quantity, Sales, Discount and Profit.
+- **Dimension Tables**: Includes Customer, Orders and Products.
+- **Date Table**: Supports time-based analysis, making it possible to track trends and filter reports by time periods.
 
 ## Reports and Visuals
 The dashboard is divided into three pages, each focusing on a different aspect:
