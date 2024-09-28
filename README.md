@@ -21,6 +21,7 @@ The dashboard is divided into three pages, each focusing on different aspect:
 * __Product category__: Body care category shows a strong potential with a total sale of $6.38M, profit of 1.05M and 273,618 quantities sold. Herbal Essence Bio is the top selling product in terms of revenue ($67,640) and quantity sold (1,780).
 * __United States__ is the highest revenue and profit contributor across most categories.
 
-## Suggestions
+## Recommendations
 * Focus on high-growth segments, especially corporate customers.
 * The need for market-specific approaches to enhance overall performance.
+* Develop promo campaigns for products with lower sales to drive more order volume.
