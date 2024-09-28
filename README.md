@@ -9,13 +9,11 @@ This report analyzes the sales and performance of a Skincare and Beauty e-store.
 
 ## Reports and Visuals
 The dashboard is divided into three pages, each focusing on different aspect:
-
 - **Overview**: Displays critical KPIs such as revenue, total quantity sold, profit and profit margin.
 - **Product Performance**: Highlights the best, worst-selling products products and total sale and profit by product category.
 - **Customer Segment and Country**: Analyzes the customer segment to identify top and bottom spenders. It also provides profit breakdown by country.
 
-## Remarks
-Here are some of the insights:
+## Key Insights
 * __Sales Growth__: A total revenue of $6.52M with a 50.70% YoY growth which surpassed the 20% target.
 * __Profit margin__: A profit of $1.07M and a profit margin of 16.35%. 2023 has the lowest profit margin of 12.77% compared to other years.
 * __Customer segment__: Most of the customers belong to Consumer segment followed by Corporate. Corporate segment accounts for over 50% of revenue, surpassing the 30% target. Self-employed has the lowest revenue of $530,187.
